@@ -294,6 +294,7 @@ main {
   text-underline-position: from-font;
   text-decoration-skip-ink: none;
   padding-right: 2px;
+  padding-bottom: 24px;
 }
 
 .about__column h2.about__title {
@@ -302,7 +303,7 @@ main {
 }
 
 .footer {
-  padding-top: 180px;
+  padding-top: 157px;
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   background-color: #fff;
